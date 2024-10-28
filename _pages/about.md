@@ -23,7 +23,7 @@ Please feel free to reach out to me directly at: devonderaad[at]gmail[dot]com
             <i class="fa-li fas fa-gears"></i>
             <div class="description">
               La Kretz Postdoctoral Fellow, 2024-current  
-              <p>University of California Los Angeles</p>
+              <p>*University of California Los Angeles*</p>
             </div>
           </li>
           
@@ -31,7 +31,7 @@ Please feel free to reach out to me directly at: devonderaad[at]gmail[dot]com
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               PhD in Ecology and Evolutionary Biology, with honors, 2024
-              <p>University of Kansas</p>
+              <p>*University of Kansas*</p>
             </div>
           </li>
           
@@ -39,7 +39,7 @@ Please feel free to reach out to me directly at: devonderaad[at]gmail[dot]com
             <i class="fa-li fas fa-gears"></i>
             <div class="description">
               Madison and Lila Self Graduate Fellow, 2018-2022  
-              <p>University of Kansas</p>
+              <p>*University of Kansas*</p>
             </div>
           </li>
 
@@ -47,7 +47,7 @@ Please feel free to reach out to me directly at: devonderaad[at]gmail[dot]com
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               Bachelor of Arts in Biology, Cum Laude, 2017
-              <p>Occidental College</p>
+              <p>*Occidental College*</p>
             </div>
           </li>
           
