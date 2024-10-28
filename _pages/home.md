@@ -16,7 +16,7 @@ author_profile: true
 
 I am an evolutionary biologist with a background in museum ornithology. I am passionate about understanding evolution on a granular level, therefore my research projects document and synthesize patterns of biodiversity in wild bird populations, with the goal of revealing the key evolutionary mechanisms controlling global biodiversity accumulation.
 
-I am currently a La Kretz Postdoctoral Fellow at the University of California Los Angeles, where I am working in the [Aguillon Lab](https://stepfanieaguillon.com/). My postdoctoral research focuses on revealing the key evolutionary mechanisms involved in speciation and diversification in a variety of bird systems across North America.
+I am currently a La Kretz Postdoctoral Fellow at the University of California Los Angeles, working in the [Aguillon Lab](https://stepfanieaguillon.com/). My postdoctoral research focuses on revealing the key evolutionary mechanisms involved in speciation and diversification in a variety of bird systems across North America.
 
 I am passionate about reproducibility and accessibility in science, and I do my best to make my [published work](https://scholar.google.com/citations?user=cfjhgJAAAAAJ&hl=en) fully reproducible through [associated GitHub repositories](https://github.com/DevonDeRaad).
 
