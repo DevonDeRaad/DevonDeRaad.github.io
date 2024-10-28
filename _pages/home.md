@@ -2,16 +2,7 @@
 layout: single
 classes: wide
 permalink: /
-author_profile: true
-#header:
-#  overlay_color: "#5e616c"
-#  overlay_image: /assets/images/DeRaad.fixed.jpg
-#  actions:
-#    - label: "<i class='fas fa-download'></i> Install now"
-#      url: "/docs/quick-start-guide/"
-#excerpt: >
-#  A fancy homepage <br/>
-#  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
+title: "Home"
 ---
 I am an evolutionary biologist with a background in museum ornithology. I am passionate about understanding evolution on a granular level, therefore my research projects document and synthesize patterns of biodiversity in wild bird populations, with the goal of revealing the key evolutionary mechanisms controlling global biodiversity accumulation.
 
