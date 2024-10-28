@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Devon DeRaad"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/DeRaad.fixed.jpg"
   bio    : "Understanding evolution through a genomic lens"
   links:
     - label: "Twitter"
