@@ -1,11 +1,11 @@
 main:
+  - title: "News"
+    url: /blog/
   - title: "Research"
     url: /research_portfolio/
   - title: "Publications"
     url: /publications/
   - title: "Software"
     url: /software/
-  - title: "Posts"
-    url: /blog/
-  - title: "About"
+  - title: "Contact"
     url: /about/
