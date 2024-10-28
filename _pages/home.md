@@ -12,30 +12,10 @@ author_profile: true
 #excerpt: >
 #  A fancy homepage <br/>
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.1">Latest release v4.17.1</a></small>
-feature_row:
-  - image_path: /assets/images/unsplash-gallery-eco-evolutionary-synthesis.png
-    alt: "Eco-Evolutionary Synthesis"
-    title: "Eco-Evolutionary Synthesis"
-    excerpt: "Understanding the dynamic feedbacks among processes operating on ecological and evolutionary timescales to predict community genetic structure and genetic health."
-    url: "/research/eco-evolutionary-synthesis/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-biodiversity-global-change2.png
-    alt: "Biodiversity & Global Change"
-    title: "Biodiversity & Global Change"
-    excerpt: "Applying integrative models to predict vulnerability of biodiversity under climate change."
-    url: "/research/biodiversity-global-change/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-social-ecological-resilience.png
-    alt: "Promoting Social-Ecological Resilience"
-    title: "Promoting Social-Ecological Resilience"
-    excerpt: "Developing models of biodiversity resilience that can inform community-relevant solutions to the biodiversity crisis."
-    url: "/research/social-ecological-resilience/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
----
+I am an evolutionary biologist with a background in museum ornithology. I am passionate about understanding evolution on a granular level, therefore my research projects document and synthesize patterns of biodiversity in wild bird populations, with the goal of revealing the key evolutionary mechanisms controlling global biodiversity accumulation.
 
-1 paragraph research statement.
+I am currently a La Kretz Postdoctoral Fellow at the University of California Los Angeles, where I am working in the [Aguillon Lab](https://stepfanieaguillon.com/). My postdoctoral research focuses on revealing the key evolutionary mechanisms involved in speciation and diversification in a variety of bird systems across North America.
 
-{% include feature_row %}
+I am passionate about reproducibility and accessibility in science, and I do my best to make my [published work](https://scholar.google.com/citations?user=cfjhgJAAAAAJ&hl=en) fully reproducible through [associated GitHub repositories](https://github.com/DevonDeRaad).
+
+I am currently on the academic job market, looking for opportunities to start my own research lab focused on using wild bird populaations to answer exciting questions in evolutionary biology.
