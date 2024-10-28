@@ -1,4 +1,6 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "News"
     url: /blog/
   - title: "Research"
@@ -8,4 +10,4 @@ main:
   - title: "Software"
     url: /software/
   - title: "Contact"
-    url: /about/
+    url: /contact/
