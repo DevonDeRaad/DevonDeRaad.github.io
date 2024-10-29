@@ -24,7 +24,7 @@ feature_row3:
   - image_path: /assets/images/unsplash-gallery-human-introductions.png
     alt: "Human-mediated introductions"
     title: "Human-mediated introductions"
-    excerpt: "Studying human-mediated introductions as natural experiments."
+    excerpt: "Studying human-mediated introductions as natural experiments that reveal the real-time dynamics of population founding and colonization."
     url: "/research/human-introductions/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
