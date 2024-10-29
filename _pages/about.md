@@ -11,9 +11,7 @@ I am currently a La Kretz Postdoctoral Fellow at the University of California Lo
 
 I recently earned my PhD from the University of Kansas, where I worked in the [Moyle Lab](https://moyle4.wixsite.com/moyle-lab), located in the KU Natural History Museum. My doctoral research focused on revealing the underlying evolutionary mechanisms that have generated modern patterns of biodiversity in birds of the Pacific Islands.
 
-I first became interested in evolutionary biology while earning my Bachelors of Science at Occidental College, where I worked with the avian specimen collection in the renowned [Moore Laboratory of Zoology](https://moorelab.oxy.edu/).
-
-Please feel free to reach out to me directly at: devonderaad[at]gmail[dot]com
+I first became interested in evolutionary biology while earning my Bachelors of Science at Occidental College, where I worked with the avian specimen collection in the [Moore Laboratory of Zoology](https://moorelab.oxy.edu/).
 
 ## Education & Training
 <div class="col-md-7">
