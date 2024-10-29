@@ -32,10 +32,9 @@ feature_row3:
 
 Since the dawn of the field, evolutionary biologists have sought to understand the forces that generated earth's biodiversity. Understanding the forces and dynamics governing the evolution of life on earth allows us to accurately reconstruct and learn from evolutionary history (e.g., models of DNA sequence evolution), and even to predict the path of evolution as it continues to play out around us in real time. My research program follows this tradition, striving to understand the evolutionary forces governing global biodiversity accumulation by studying wild bird populations. Specifically, I target interesting groups of closely related bird lineages (often working at the interface of population genetic and phylogenetic approaches) whose patterns of relatedness are likely to reveal novel or unexpected insights into how evolution works under natural conditions. Overall, most of my active research falls into one of three major themes, outlined below. 
 
-
-{% include feature_row id="feature_row1" type="center" %}
 ![](/assets/images/unsplash.png)
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row1" type="center" %}
 ![](/assets/images/unsplash-gallery-speciation.png)
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row2" type="center" %}
 ![](/assets/images/unsplash-gallery-humanmediated.png)
+{% include feature_row id="feature_row3" type="center" %}
