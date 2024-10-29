@@ -5,16 +5,16 @@ permalink: /
 title: "Home"
 
 gallery2:
-  - url: /assets/images/me.jpg
-    image_path: /assets/images/me.jpg
+  - url: /assets/images/me.jpeg
+    image_path: /assets/images/me.jpeg
     alt: "me1"
     title: "me1"
-  - url: /assets/images/me2.jpg
-    image_path: /assets/images/me2.jpg
+  - url: /assets/images/me2.jpeg
+    image_path: /assets/images/me2.jpeg
     alt: "me2"
     title: "me2"
-  - url: /assets/images/me3.jpg
-    image_path: /assets/images/me3.jpg
+  - url: /assets/images/me3.png
+    image_path: /assets/images/me3.png
     alt: "me3"
     title: "me3"
 ---
