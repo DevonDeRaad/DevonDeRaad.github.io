@@ -7,18 +7,15 @@ title: "Publications"
 All publications available via [Google Scholar](https://scholar.google.com/citations?user=cfjhgJAAAAAJ&hl=en).
 
 
-  
 ### In Review
-Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *bioRxiv*, 2024-03.</li>
+26/. Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *bioRxiv*, 2024-03.
 
 ### Published
-<ol reversed>
-<li> </li> DeCicco LH, **DeRaad DA**, Holland P, Pikacha D, Gumo Tigulu I, Tako R, Boseto D, Sweet PR, & Moyle RG (2024). Phylogeography of the Island Leaf Warbler (Aves: *Phylloscopus poliocephalus*) in northern Melanesia reveals rapid secondary sympatry or ecological speciation on Kolombangara Island, Solomon Islands. *Bulletin of the Society of Systematic Biologists*, 3(2), 1-14.
-<li> </li> **DeRaad DA**, Files AN, DeCicco LH, Martin RP, McCullough JM, Holland P, Pikacha D, Tigulu IG, Boseto D, Lavery TH, Andersen MJ, & Moyle RG (2024). Genomic patterns in the dwarf kingfishers of northern Melanesia reveal a mechanistic framework explaining the paradox of the great speciators. *Evolution Letters*, qrae035, 1-15.
-<li> </li> Baca SM, Gustafson GT, **DeRaad DA**, Alexander A, Hime PM, & Short AE (2024). A shallow‐scale phylogenomics approach reveals repeated patterns of diversification among sympatric lineages of cryptic Neotropical aquatic beetles (Coleoptera: Noteridae). *Systematic Entomology*, xx(xx), 1-20.
-<li> </li> Lavery TH, **DeRaad DA**, Holland PS, Olson KV, DeCicco LH, Seddon JM, Leung LK, & Moyle RG (2024). Parallel evolution in an island archipelago revealed by genomic sequencing of *Hipposideros* leaf-nosed bats. *Evolution*, 78(6), 1183-1192.
+25/. DeCicco LH, **DeRaad DA**, Holland P, Pikacha D, Gumo Tigulu I, Tako R, Boseto D, Sweet PR, & Moyle RG (2024). Phylogeography of the Island Leaf Warbler (Aves: *Phylloscopus poliocephalus*) in northern Melanesia reveals rapid secondary sympatry or ecological speciation on Kolombangara Island, Solomon Islands. *Bulletin of the Society of Systematic Biologists*, 3(2), 1-14.
+24/. **DeRaad DA**, Files AN, DeCicco LH, Martin RP, McCullough JM, Holland P, Pikacha D, Tigulu IG, Boseto D, Lavery TH, Andersen MJ, & Moyle RG (2024). Genomic patterns in the dwarf kingfishers of northern Melanesia reveal a mechanistic framework explaining the paradox of the great speciators. *Evolution Letters*, qrae035, 1-15.
+23/. Baca SM, Gustafson GT, **DeRaad DA**, Alexander A, Hime PM, & Short AE (2024). A shallow‐scale phylogenomics approach reveals repeated patterns of diversification among sympatric lineages of cryptic Neotropical aquatic beetles (Coleoptera: Noteridae). *Systematic Entomology*, xx(xx), 1-20.
+22/. Lavery TH, **DeRaad DA**, Holland PS, Olson KV, DeCicco LH, Seddon JM, Leung LK, & Moyle RG (2024). Parallel evolution in an island archipelago revealed by genomic sequencing of *Hipposideros* leaf-nosed bats. *Evolution*, 78(6), 1183-1192.
 •	Media coverage in [AAAS EurekAlert!](https://www.eurekalert.org/news-releases/1041829), [Newsweek](https://www.newsweek.com/bats-evolving-parallel-sizes-solomon-islands-1893237), and [Evolution Digest](https://academic.oup.com/evolut/article/78/7/1349/7667066).
-</ol>
 
 <li> **DeRaad DA**, Cobos ME, Hofmeister NR, DeCicco LH, Venkatraman MX, Nishiumi I, McKay B, Zou FS, Kawakami K, Kim CH, Lin RS, Yao CT, Garrett KL, Aguillon SM, McCormack JE, Mays Jr. HL, Peterson AT, Moyle RG, & Shultz AJ (2024). On the brink of explosion? Identifying the source and potential spread of introduced *Zosterops* white-eyes in North America. *Biological Invasions*, 26(5), 1615-1639.</li>
 •	Media coverage in [LAist](https://laist.com/news/climate-environment/swinhoes-white-eye-expansion-california).
