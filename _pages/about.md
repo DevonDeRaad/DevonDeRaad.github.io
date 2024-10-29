@@ -21,7 +21,7 @@ I first became interested in evolutionary biology while earning my Bachelors of 
             <i class="fa-li fas fa-gears"></i>
             <div class="description">
               La Kretz Postdoctoral Fellow, 2024-current  
-              <p>*University of California Los Angeles*</p>
+              <b>University of California Los Angeles</b>
             </div>
           </li>
           
@@ -29,7 +29,7 @@ I first became interested in evolutionary biology while earning my Bachelors of 
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               PhD in Ecology and Evolutionary Biology, with honors, 2024
-              <p>*University of Kansas*</p>
+              <b>University of Kansas</b>
             </div>
           </li>
           
@@ -37,7 +37,7 @@ I first became interested in evolutionary biology while earning my Bachelors of 
             <i class="fa-li fas fa-gears"></i>
             <div class="description">
               Madison and Lila Self Graduate Fellow, 2018-2022  
-              <p>*University of Kansas*</p>
+              <b>University of Kansas</b>
             </div>
           </li>
 
@@ -45,7 +45,7 @@ I first became interested in evolutionary biology while earning my Bachelors of 
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               Bachelor of Arts in Biology, Cum Laude, 2017
-              <p>*Occidental College*</p>
+              <b>Occidental College</b>
             </div>
           </li>
           
