@@ -34,6 +34,6 @@ Since the dawn of the field, evolutionary biologists have sought to understand t
 
 
 
-{% include feature_row id="feature_row1" type="left" %}
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row1" type="center" %}
+{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row3" type="center" %}
