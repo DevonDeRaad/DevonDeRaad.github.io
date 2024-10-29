@@ -6,12 +6,13 @@ title: "Publications"
 ---
 All publications available via [Google Scholar](https://scholar.google.com/citations?user=cfjhgJAAAAAJ&hl=en).
 
-<ol reversed>
+
   
 ### In Review
-<li> Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *bioRxiv*, 2024-03.</li>
+Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *bioRxiv*, 2024-03.</li>
 
 ### Published
+<ol reversed>
 <li> DeCicco LH, **DeRaad DA**, Holland P, Pikacha D, Gumo Tigulu I, Tako R, Boseto D, Sweet PR, & Moyle RG (2024). Phylogeography of the Island Leaf Warbler (Aves: *Phylloscopus poliocephalus*) in northern Melanesia reveals rapid secondary sympatry or ecological speciation on Kolombangara Island, Solomon Islands. *Bulletin of the Society of Systematic Biologists*, 3(2), 1-14.</li>
 <li> **DeRaad DA**, Files AN, DeCicco LH, Martin RP, McCullough JM, Holland P, Pikacha D, Tigulu IG, Boseto D, Lavery TH, Andersen MJ, & Moyle RG (2024). Genomic patterns in the dwarf kingfishers of northern Melanesia reveal a mechanistic framework explaining the paradox of the great speciators. *Evolution Letters*, qrae035, 1-15.</li>
 <li> Baca SM, Gustafson GT, **DeRaad DA**, Alexander A, Hime PM, & Short AE (2024). A shallow‐scale phylogenomics approach reveals repeated patterns of diversification among sympatric lineages of cryptic Neotropical aquatic beetles (Coleoptera: Noteridae). *Systematic Entomology*, xx(xx), 1-20.</li>
