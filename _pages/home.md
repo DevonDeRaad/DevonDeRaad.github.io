@@ -27,5 +27,5 @@ I am passionate about reproducibility and accessibility in science, and I do my 
 
 I am currently on the academic job market, looking for opportunities to start my own research lab focused on answering exciting questions in evolutionary biology by using cutting edge genomic approaches to study wild bird populations across the globe.
 
-{% include gallery id="gallery2" caption="Relevant photos." %}
+{% include gallery id="gallery2" caption="" %}
 
