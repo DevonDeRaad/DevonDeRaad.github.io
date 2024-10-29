@@ -6,6 +6,12 @@ title: "Publications"
 ---
 All publications available via [Google Scholar](https://scholar.google.com/citations?user=cfjhgJAAAAAJ&hl=en).
 
+<ol reversed>
+  <li>3. Coffee</li>
+  <li>2. Tea</li>
+  <li>1. Milk</li>
+</ol>
+
 ### In Review
 26. Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *bioRxiv*, 2024-03.
 
