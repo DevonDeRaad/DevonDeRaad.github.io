@@ -39,7 +39,7 @@ All publications available via [Google Scholar](https://scholar.google.com/citat
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14\. McCullough JM, DeCicco LH, Herr MW, Holland P, Pikacha D, Lavery TH, Olson KV, **DeRaad DA**, Tigulu IG, Mapel XM, Klicka LB, Famoo R, Hobete J, Runi L, Rusa G, Tippet A, Boseto D, Brown RM, Moyle RG, & Andersen MJ (2023). A Survey of Terrestrial Vertebrates of Tetepare Island, Solomon Islands, Including Six New Island Records. *Pacific Science*, 76(4), 411-435.  
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13\. Pizarro AK, **DeRaad DA**, & McCormack JE (2023). Temporal stability of the hybrid zone between *Calocitta* magpie‐jays revealed through comparison of museum specimens and iNaturalist photos. Ecology and Evolution, 13(3), 1-7. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13\. Pizarro AK, **DeRaad DA**, & McCormack JE (2023). Temporal stability of the hybrid zone between *Calocitta* magpie‐jays revealed through comparison of museum specimens and iNaturalist photos. *Ecology and Evolution*, 13(3), 1-7.  
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12\. **DeRaad DA**, Applewhite EE, Tsai WLE, Terrill RS, Kingston SE, Braun MJ, & McCormack JE (2023). Hybrid zone or hybrid lineage: a genomic reevaluation of Sibley’s classic species conundrum in *Pipilo* towhees. *Evolution*, 77(3), 852-869.  
 <br/>
