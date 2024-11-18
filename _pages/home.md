@@ -29,3 +29,6 @@ I am currently on the academic job market, looking for opportunities to start my
 
 {% include gallery id="gallery2" caption="" %}
 
+
+![image](/assets/images/IMG_0798.jpeg)
+
