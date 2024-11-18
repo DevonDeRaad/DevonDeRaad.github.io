@@ -6,24 +6,24 @@ author_profile: true
 
 feature_row1:
   - image_path:
-    alt: "Integrating phylogenetics and population genetics"
-    title: "Integrating phylogenetics and population genetics"
+    alt: "How does complex geography mediate the speciation process across the globe?"
+    title: "How does complex geography mediate the speciation process across the globe?"
     excerpt: "Integrating phylogenetic and population genetic approaches to accurately reconstruct complex evolutionary histories."
     url: "/research/phylogenetics-populationgenetics/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
   - image_path:
-    alt: "Studying speciation in action"
-    title: "Studying speciation in action"
+    alt: "What traits and loci are involved in maintaining natural tension zones?"
+    title: "What traits and loci are involved in maintaining natural tension zones?"
     excerpt: "Studying secondary contact to catch speciation 'in the act' and study the evolution of reproductive isolation under natural conditions."
     url: "/research/speciation/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
   - image_path:
-    alt: "Human-mediated introductions"
-    title: "Human-mediated introductions"
+    alt: "What can human translocations reveal about how natural populations colonize and establish in novel localities?"
+    title: "What can human translocations reveal about how natural populations colonize and establish in novel localities?"
     excerpt: "Studying human-mediated introductions as natural experiments that reveal the real-time dynamics of population founding and colonization."
     url: "/research/human-introductions/"
     btn_label: "Read More"
