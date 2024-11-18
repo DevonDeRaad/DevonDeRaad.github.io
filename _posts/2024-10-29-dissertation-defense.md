@@ -10,7 +10,7 @@ values:
     related: true
 categories:
     - blog
-gallery2:
+gallery3:
   - url: /assets/images/me.jpeg
     image_path: /assets/images/IMG_1955.jpeg
     alt: "me1"
@@ -27,3 +27,4 @@ gallery2:
 
 I am christening this updated website by announcing that I defended my dissertation back in May 2024! My dissertation ended up focusing on understanding patterns of relatedness among multiple groups of closely related bird species found in the islands of the Pacific. The whole document can be accessed [here](https://proquest.com/docview/3097678257) and you can even watch my defense [here](https://youtu.be/fD9wlKniLt8?si=F6L9XVtGPye_paUL) if you're interested. I am proud of the work I accomplished during my PhD and excited for the foundation that I believe it will set for my research program moving forward. Cheers to happy endings and new beginnings!
 
+{% include gallery id="gallery3" caption="rock chalk!" %}
