@@ -11,5 +11,16 @@ Much of my dissertation work focused on reconstructing the speciation process in
 - open access link to the manuscript: [Genomic patterns in the dwarf kingfishers of northern Melanesia reveal a mechanistic framework explaining the paradox of the great speciators](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae035/7721309).  
 The "paradox of the great speciators" is a longstanding paradox, that asks how great speciator taxa can simultaneously be so good at dispersing that they reach dozens of islands, but so poor at dispersing that the population on each island becomes isolated and genetically differentiated? Multiple hypotheses have been suggested to explain the phenomenon, and we used the dwarf kingfishers (genus *Ceyx*) to test them.
 
+![image](/assets/images/ceyx.splits.png)
+
+We see from this phylogenetic network that each island species is highly divergent and isolated, with no evidence for shared ancestry between the clades. To test for the tempo of diversification, we also constructed a time-calibrated phylogeny:
+
+![image](/assets/images/ceyx.timetree.png)
+
+This reveals that there was a statistically significant early burst of diversification following the arrival of the ancestral *Ceyx* lineage in northern Melanesia. Based on this evidence, we were able to construct a fully fleshed out framework for how the "paradox of the great speciators" likely arises in island archipelagoes:
+
+![image](/assets/images/paradox.png)
+
+This diagram outlines how shifts in selection pressure on the "dispersiveness" trait throughout the colonization process can generate the exact paradoxical patterns that have been repeatedly documented in the 'great speciator' taxa of Oceania.
 
 
