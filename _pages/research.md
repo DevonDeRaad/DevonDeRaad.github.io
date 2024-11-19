@@ -14,8 +14,8 @@ feature_row1:
     btn_class: "btn--inverse"
 feature_row2:
   - image_path:
-    alt: "What traits and loci are involved in maintaining natural tension zones?"
-    title: "What traits and loci are involved in maintaining natural tension zones?"
+    alt: "How are natural tension zones maintained on evolutionary timescales?"
+    title: "How are natural tension zones maintained on evolutionary timescales?"
     excerpt: "Studying secondary contact to catch speciation 'in the act' and study the evolution of reproductive isolation under natural conditions."
     url: "/research/speciation/"
     btn_label: "Read More"
