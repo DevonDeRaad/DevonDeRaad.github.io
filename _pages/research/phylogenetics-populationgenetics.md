@@ -23,9 +23,11 @@ This reveals that there was a statistically significant early burst of diversifi
 
 This diagram outlines how shifts in selection pressure on the "dispersiveness" trait throughout the colonization process can generate the exact paradoxical patterns that have been repeatedly documented in the 'great speciator' taxa of Oceania.  
 
-This project uses genomic data from specimens housed in natural history museums to document patterns of biodiversity, work that has formed the bread and butter of my research program. But I am particularly proud of this example, because it shows that with careful inference, these patterns can be used to test competing hypotheses that can explain major unresolved mysteries in the evolution of not just the taxa at hand, but also in terrestrail vertebrate radiations in island archipelagoes across the globe. By carefully studying this awesome group of 'dwarf kingfishers' we showed that the "paradox of the great speciators" was hardly a paradox at all, and is actually quite expected under a simple model of shifting selection pressure on dispersiveness, through time.
+This project uses genomic data from specimens housed in natural history museums to document patterns of biodiversity, work that has formed the bread and butter of my research program. But I am particularly proud of this example, because it shows that with careful inference, these patterns can be used to test competing hypotheses that can explain major unresolved mysteries in the evolution of not just the taxa at hand, but also in terrestrial vertebrate radiations in island archipelagoes across the globe. By carefully studying this awesome group of 'dwarf kingfishers' we showed that the "paradox of the great speciators" was hardly a paradox at all, and is actually quite expected under a simple model of shifting selection pressure on dispersiveness, through time.
 
-## What effect has explosive diversification had on the genomes of island-dwelling bird taxa?
+### Other relevant work in this vain:
+- [Mitonuclear discordance results from incomplete lineage sorting, with no detectable evidence for gene flow, in a rapid radiation of Todiramphus kingfishers](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.17080)
+- [Combining Species Delimitation, Species Trees, and Tests for Gene Flow Clarifies Complex Speciation in Scrub-Jays](https://academic.oup.com/sysbio/article/71/6/1453/6585345)
 
 
 
