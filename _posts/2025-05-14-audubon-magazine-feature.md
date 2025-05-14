@@ -18,7 +18,7 @@ A recent article in Audubon Magazine highlights results from my recent work docu
   <div style="padding: 20px;">
     <p style="margin: 10px 0 16px 0;">Read our original research article documenting the spread of Swinhoe's White-eye in Southern California</p>
     <em>DeRaad et al., 2024, Biological Invasions</em><br>
-    <a href="https://link.springer.com/article/10.1007/s10530-024-03268-8" target="_blank" style="display: inline-block; background-color: #0077cc; color: grey; padding: 10px 18px; text-decoration: none; border-radius: 5px;">
+    <a href="https://link.springer.com/article/10.1007/s10530-024-03268-8" target="_blank" style="display: inline-block; background-color: grey; color: white; padding: 10px 18px; text-decoration: none; border-radius: 5px;">
       Read Full Article →
     </a>
   </div>
