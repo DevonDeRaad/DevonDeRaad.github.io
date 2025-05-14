@@ -13,7 +13,7 @@ categories: [blog]
 A recent article in Audubon Magazine highlights results from my recent work documenting the rapid spread of Swinhoe's White-eye (*Zosterops simplex*) across Southern California. I am very excited that this work is getting attention from bird enthusiasts and can't wait to see what we continue to learn from these fascinating birds!
 
 
-<div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; margin: 30px 0; background: grey;">
+<div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; margin: 30px 0; background: #ebd1a7;">
   <img src="/assets/images/bio-invasions-thumb.png" alt="Biological invasions thumbnail" style="width: 100%; height: auto; display: block;">
   <div style="padding: 20px;">
     <p style="margin: 10px 0 16px 0;">Read our original research article documenting the spread of Swinhoe's White-eye in Southern California</p>
