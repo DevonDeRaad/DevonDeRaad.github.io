@@ -32,6 +32,16 @@ A recent article in Audubon Magazine highlights results from my recent work docu
 
 
 
+<div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; margin: 30px 0; background: #fdfdfd;">
+  <img src="/assets/images/audubon-article-thumb.png" alt="Audubon article thumbnail" style="width: 100%; height: auto; display: block;">
+  <div style="padding: 20px;">
+    <h3 style="margin-top: 0;">This Non-Native Songbird Is Taking Over California - Will The Rest Of The Country Be Next?</h3>
+    <p style="margin: 10px 0 16px 0;">Audubon Magazine discusses our recent research on Swinhoe's White-eye..</p>
+    <a href="https://www.audubon.org/magazine/non-native-songbird-taking-over-california-will-rest-country-be-next" target="_blank" style="display: inline-block; background-color: #0077cc; color: white; padding: 10px 18px; text-decoration: none; border-radius: 5px;">
+      Read Full Article →
+    </a>
+  </div>
+</div>
 
 
 
