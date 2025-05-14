@@ -22,7 +22,7 @@ A recent article in Audubon Magazine highlights results from my recent work docu
 
 
 <div style="display: flex; gap: 16px; background: #f3f3f3; padding: 16px; border-radius: 8px; align-items: center;">
-  <img src="/assets/images/audubon-article-thumb.png" alt="Audubon feature" style="width: 120px; height: auto; border-radius: 6px;">
+  <img src="/assets/images/audubon-article-thumb.png" alt="Audubon feature" style="width: 300px; height: auto; border-radius: 6px;">
   <div>
     <h4 style="margin: 0;">This Non-Native Songbird Is Taking Over California - Will The Rest Of The Country Be Next?</h4>
     <p style="margin: 4px 0;">Audubon Magazine discusses our recent research on Swinhoe's White-eye.</p>
