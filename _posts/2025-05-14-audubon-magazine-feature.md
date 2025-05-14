@@ -21,21 +21,10 @@ A recent article in Audubon Magazine highlights results from my recent work docu
 </div>
 
 
-<div style="display: flex; gap: 16px; background: #f3f3f3; padding: 16px; border-radius: 8px; align-items: center;">
-  <img src="/assets/images/audubon-article-thumb.png" alt="Audubon feature" style="width: 300px; height: auto; border-radius: 6px;">
-  <div>
-    <h4 style="margin: 0;">This Non-Native Songbird Is Taking Over California - Will The Rest Of The Country Be Next?</h4>
-    <p style="margin: 4px 0;">Audubon Magazine discusses our recent research on Swinhoe's White-eye.</p>
-    <p style="margin: 0;"><a href="https://www.audubon.org/magazine/non-native-songbird-taking-over-california-will-rest-country-be-next" target="_blank" style="color: #0077cc; text-decoration: none;"><strong>Read more →</strong></a></p>
-  </div>
-</div>
-
-
 
 <div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; margin: 30px 0; background: #fdfdfd;">
   <img src="/assets/images/audubon-article-thumb.png" alt="Audubon article thumbnail" style="width: 100%; height: auto; display: block;">
   <div style="padding: 20px;">
-    <h3 style="margin-top: 0;">This Non-Native Songbird Is Taking Over California - Will The Rest Of The Country Be Next?</h3>
     <p style="margin: 10px 0 16px 0;">Audubon Magazine discusses our recent research on Swinhoe's White-eye..</p>
     <a href="https://www.audubon.org/magazine/non-native-songbird-taking-over-california-will-rest-country-be-next" target="_blank" style="display: inline-block; background-color: #0077cc; color: white; padding: 10px 18px; text-decoration: none; border-radius: 5px;">
       Read Full Article →
