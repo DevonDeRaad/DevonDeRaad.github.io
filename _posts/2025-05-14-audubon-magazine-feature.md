@@ -21,6 +21,18 @@ A recent article in Audubon Magazine featured results from a recent manuscript t
 </div>
 
 
+<a href="https://www.audubon.org/magazine/non-native-songbird-taking-over-california-will-rest-country-be-next" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="display: flex; gap: 16px; background: #f3f3f3; padding: 16px; border-radius: 8px; align-items: center;">
+    <img src="/assets/images/audubon-article-thumb.jpg" alt="Audubon feature" style="width: 120px; height: auto; border-radius: 6px;">
+    <div>
+      <h4 style="margin: 0;">A Non-Native Songbird Is Taking Over California</h4>
+      <p style="margin: 4px 0;">Audubon Magazine discusses the spread of a tropical bird species with links to recent peer-reviewed research.</p>
+      <p style="margin: 0; color: #0077cc;"><strong>Read more →</strong></p>
+    </div>
+  </div>
+</a>
+
+
 
 
 
