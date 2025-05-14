@@ -16,7 +16,7 @@ A recent article in Audubon Magazine highlights results from my recent work docu
   <a href="https://link.springer.com/article/10.1007/s10530-024-03268-8" target="_blank" style="text-decoration: none; color: #333;">
     <strong>On the brink of explosion? Identifying the source and potential spread of introduced Zosterops white-eyes in North America</strong><br>
     <em>DeRaad et al., 2024 *Biological Invasions*</em><br>
-    <p style="margin-top: 8px;">This research was recently featured in <strong>Audubon Magazine</strong>. Click here to view the original publication.</p>
+    <p style="margin-top: 8px;">Click here to read the original publication, recently featured in <strong>Audubon Magazine</strong>. </p>
   </a>
 </div>
 
