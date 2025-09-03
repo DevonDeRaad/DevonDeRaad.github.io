@@ -30,7 +30,7 @@ feature_row3:
     btn_class: "btn--inverse"
 ---
 
-My research program is focused on understanding the speciation process from start to finish. To do this, I leverage natural experimental frameworks that allow me to study every aspect of the speciation process, beginning with how new species are formed and ending with how and why certain species go extinct. The three main types of natural experiments I study are:
+My research program is focused on understanding the speciation process from start to finish. To do this, I leverage natural experimental frameworks that allow me to study every aspect of the speciation process, beginning with how new species are formed and ending with how and why certain species go extinct. The three main types of natural experiments I study are islands, hybrid zones, and human-mediated translocations. Many of my projects even encompass more than one of these types of natural experimental frameworks!
 
 ![](/assets/images/ceyx.splits.png)
 {% include feature_row id="feature_row1" type="center" %}
