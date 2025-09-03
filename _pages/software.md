@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /open science/
+permalink: /open_science/
 title: "My open science efforts"
 ---
 
