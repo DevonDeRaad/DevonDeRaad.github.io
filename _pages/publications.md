@@ -8,20 +8,20 @@ All publications available via [Google Scholar](https://scholar.google.com/citat
 
 
 ### In Review
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29\. Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG, **DeRaad DA**, Chen N, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, & Sackton TB (2025). Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. *BioRxiv* [https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1](https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29\. Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG, **DeRaad DA**, Chen N, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, & Sackton TB (2025). Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. *BioRxiv* [https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1](https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1).  
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28\. **DeRaad DA**, DeCicco LH, Ostrow EN, Chan KO, Hosner PA, & Moyle RG (2025). Rapid divergence with gene flow creates intractable nodes in the tree of life: An empirical demonstration in the Buzzing Flowerpecker (*Dicaeum hypoleucum*). *Evolutionary Journal of the Linnean Society* (in review).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28\. **DeRaad DA**, DeCicco LH, Ostrow EN, Chan KO, Hosner PA, & Moyle RG (2025). Rapid divergence with gene flow creates intractable nodes in the tree of life: An empirical demonstration in the Buzzing Flowerpecker (*Dicaeum hypoleucum*). *Evolutionary Journal of the Linnean Society* (in review).  
 
 ### Published
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27\. **DeRaad DA**, Alderson JD, Geiman CO, DeCicco LH, Moyle RG, Spellman GM, & Aguillon SM (2025). Strong selection maintains a narrow, stable tension zone between grosbeak species in the Great Plains. *Evolution*. Accepted.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27\. **DeRaad DA**, Alderson JD, Geiman CO, DeCicco LH, Moyle RG, Spellman GM, & Aguillon SM (2025). Strong selection maintains a narrow, stable tension zone between grosbeak species in the Great Plains. *Evolution*. Accepted.  
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26\. Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *Ecology and Evolution*, 14(11) e70548.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26\. Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *Ecology and Evolution*, 14(11) e70548.  
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25\. DeCicco LH, **DeRaad DA**, Holland P, Pikacha D, Gumo Tigulu I, Tako R, Boseto D, Sweet PR, & Moyle RG (2024). Phylogeography of the Island Leaf Warbler (Aves: *Phylloscopus poliocephalus*) in northern Melanesia reveals rapid secondary sympatry or ecological speciation on Kolombangara Island, Solomon Islands. *Bulletin of the Society of Systematic Biologists*, 3(2), 1-14.  
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24\. **DeRaad DA**, Files AN, DeCicco LH, Martin RP, McCullough JM, Holland P, Pikacha D, Tigulu IG, Boseto D, Lavery TH, Andersen MJ, & Moyle RG (2024). Genomic patterns in the dwarf kingfishers of northern Melanesia reveal a mechanistic framework explaining the paradox of the great speciators. *Evolution Letters*, qrae035, 1-15.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24\. **DeRaad DA**, Files AN, DeCicco LH, Martin RP, McCullough JM, Holland P, Pikacha D, Tigulu IG, Boseto D, Lavery TH, Andersen MJ, & Moyle RG (2024). Genomic patterns in the dwarf kingfishers of northern Melanesia reveal a mechanistic framework explaining the paradox of the great speciators. *Evolution Letters*, 8(6), 813-827.  
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23\. Baca SM, Gustafson GT, **DeRaad DA**, Alexander A, Hime PM, & Short AE (2024). A shallow‐scale phylogenomics approach reveals repeated patterns of diversification among sympatric lineages of cryptic Neotropical aquatic beetles (Coleoptera: Noteridae). *Systematic Entomology*, xx(xx), 1-20.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23\. Baca SM, Gustafson GT, **DeRaad DA**, Alexander A, Hime PM, & Short AE (2024). A shallow‐scale phylogenomics approach reveals repeated patterns of diversification among sympatric lineages of cryptic Neotropical aquatic beetles (Coleoptera: Noteridae). *Systematic Entomology*, 50(1), 82–101.  
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22\. Lavery TH, **DeRaad DA**, Holland PS, Olson KV, DeCicco LH, Seddon JM, Leung LK, & Moyle RG (2024). Parallel evolution in an island archipelago revealed by genomic sequencing of *Hipposideros* leaf-nosed bats. *Evolution*, 78(6), 1183-1192.  
 •	Media coverage in [AAAS EurekAlert!](https://www.eurekalert.org/news-releases/1041829), [Newsweek](https://www.newsweek.com/bats-evolving-parallel-sizes-solomon-islands-1893237), and [Evolution Digest](https://academic.oup.com/evolut/article/78/7/1349/7667066).  
