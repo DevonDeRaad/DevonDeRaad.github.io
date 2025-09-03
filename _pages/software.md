@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-permalink: /software/
-title: "Software and Workshops"
+permalink: /open science/
+title: "My open science efforts"
 ---
 
 Alongside my empirical work, I am interested in the development of rigorous and user-friendly software for evolutionary genomics. I strongly believe that in this highly specialized and technical era of scientific progress, the demystification of challenging technical concepts, with the goal of training a next generation of diverse scientists, is the only way we will continue to generate scientific breakthroughs. To that end I actively participate in the development of open-source software and training materials, so that motivated investigators from any background can embark on the crucial journey of deeply understanding the processing pipelines and statistical decisions involved in generating evolutionary insights from genomic data.
