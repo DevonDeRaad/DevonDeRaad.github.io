@@ -2,12 +2,12 @@
 layout: single
 classes: wide
 permalink: /research/speciation/
-title: "How are tension zones maintained in nature and what are their evolutionary outcomes?"
+title: "Why do species typically remain distinct when hybridization is so common across the tree of life?"
 ---
 
-In studying non-model birds, "tension zones" are a repeated phenomenon cropping up across the globe. Tension zones are narrow areas (narrower than expected under neutral diffusion) of secondary contact and hybridization between lineages. The geographically restricted nature of these zones suggests that they are held in place by unseen evolutionary forces (i.e., held in tension). Parsing the specific forces holding any single tension zone in place is a challenging endeavor, but diligent and careful study across tension zones continues to reveal new insights into the broadly repeatable evolutionary mechanisms that generate this repeatedly observed phenomenon.
+Evolutionary biologists now largely agree that hybridization is an important and widespread evolutionary force that plays a key role in patterns of diversification at a global scale. Yet, most organisms we observe each day are easily identifiable to a single species, and are not "hybrids" in the colloquial sense. This contradiction is explained by the barriers to hybridization that prevent closely related species from collapsing back into a single panmictic population. Therefore, these barriers are crucially important for maintaining locally adapted alleles and phenotypes in populations across the globe. Yet, we still have very few if any examples of naturally hybridizing taxa in which we fully understand the genetic, phenotypic, behavioral, and ecological barriers preventing lineage collapse. My work is focused on developing that understanding in a few key groups.
 
-## Revealing the dynamics of a classic avian tension zone
+## Revealing the dynamics of a classic avian tension zone in the Mexican highlands
 - open access link to the manuscript: [Hybrid zone or hybrid lineage: a genomic reevaluation of Sibley’s classic species conundrum in Pipilo towhees](https://academic.oup.com/evolut/article/77/3/852/6964374).
 One avian tension zone that I have studied in depth is between two towhee species (genus *Pipilo*) that come into contact across the transvolcanic belt in central Mexico.
 
@@ -17,4 +17,4 @@ I was part of a paper where we sequenced genomic loci from across this transect,
 
 ![image](/assets/images/towhee.splits.png)
 
-We ultimately revealed that although there are apparently few intrinsic barriers to reproduction between these phenotypically divergent lineages, geography appears to play an important role in maintaining this tension zone, with limited gene flow across geographic barriers of unsuitable lowland habitat
+We ultimately revealed that although there are apparently few intrinsic barriers to reproduction between these phenotypically divergent lineages, geography appears to play an important role in maintaining this tension zone, with limited gene flow across geographic barriers of unsuitable lowland habitat.
