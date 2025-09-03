@@ -7,7 +7,7 @@ main:
     url: /research_portfolio/
   - title: "Publications"
     url: /publications/
-  - title: "Software"
-    url: /software/
+  - title: "Open science"
+    url: /open_science/
   - title: "Contact"
     url: /contact/
