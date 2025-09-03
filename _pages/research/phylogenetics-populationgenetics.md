@@ -2,10 +2,10 @@
 layout: single
 classes: wide
 permalink: /research/phylogenetics-populationgenetics/
-title: "How does complex geography mediate speciation across the globe?"
+title: "How do new species form on islands?"
 ---
 
-Much of my dissertation work focused on reconstructing the speciation process in birds that live in Oceania, inhabiting complex, fragmented island chains. Because open ocean typically serves as a barrier to dispersal in terrestrial vertebrate taxa (like birds), these island archipelagoes can generate lots of isolated populations, leading to explosive diversification. Here I detail a few of the case studies that I've performed and highlight the meaningful advances my work has generated in our understanding of how evolution works in island systems.
+Much of my dissertation work focused on reconstructing the speciation process in birds that live in Oceania, inhabiting complex, fragmented island chains. Because open ocean typically serves as a barrier to dispersal in terrestrial vertebrate taxa (like birds), these island archipelagoes can generate lots of isolated populations, leading to explosive diversification. This natural experimental framework makes this an ideal region for studying the speciation process. Here I detail a few of the case studies that I've performed and highlight the meaningful advances my work has generated in our understanding of how evolution works in island systems.
 
 ## Shedding new light on the "paradox of the great speciators"
 - open access link to the manuscript: [Genomic patterns in the dwarf kingfishers of northern Melanesia reveal a mechanistic framework explaining the paradox of the great speciators](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae035/7721309).  
