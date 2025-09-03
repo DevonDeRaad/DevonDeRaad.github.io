@@ -13,4 +13,6 @@ Already, I have published an investigation demonstrating that the white-eyes int
 
 ![image](/assets/images/zost.gendiv.png)
 
+![image](/assets/images/zost.gendiv2.png)
+
 Future projects will focus on investigating how, despite very different introduction scenarios, both of these populations appear to be thriving.
