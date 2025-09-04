@@ -11,7 +11,7 @@ I believe that it is my responsibility as a scientist to make my work fully tran
 
 # Publicly available DNA sequence data
 
-To date, I have personally contributed [678 genomic samples](https://www.ncbi.nlm.nih.gov/biosample/?term=Devon+DeRaad) from 37 different species to NCBI's Sequence Read Archive (SRA; a publicly available repository for genomic sequence data) from my published manuscripts. Here is a detailed breakdown of those samples:
+To date, I have personally contributed [679 genomic samples](https://www.ncbi.nlm.nih.gov/biosample/?term=Devon+DeRaad) from 37 different species to NCBI's Sequence Read Archive (SRA; a publicly available repository for genomic sequence data) from my published manuscripts. Here is a detailed breakdown of those samples:
 
 | Project | Species | Samples | Sample Type |
 |:-------------:|:--------------:|:--------------:|:--------------:|
