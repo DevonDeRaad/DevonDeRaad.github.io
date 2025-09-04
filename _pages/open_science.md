@@ -5,11 +5,15 @@ permalink: /open_science/
 title: "My open science efforts"
 ---
 
-I believe that it is my responsibility as a scientist to make my work fully transparent and reproducible. I also believe that following the principles of transparency and reproducibility naturally lead to the creation of rigorous documentation, which can be viewed as a resource for training the next generation of scientists. 
+I believe that it is my responsibility as a scientist to make my work fully transparent and reproducible. I also believe that following the principles of transparency and reproducibility naturally lead to the creation of rigorous documentation, which can be viewed as a resource for training the next generation of scientists. Here I detail my special interest in creating resources that facilitate transparent and reproducible practices, AKA "open science".
 
-So far in my career, I have built a significant codebase that 
+# Public access to sequence data
 
-Alongside my empirical work, I am interested in the development of rigorous and user-friendly software for evolutionary genomics. I strongly believe that in this highly specialized and technical era of scientific progress, the demystification of challenging technical concepts, with the goal of training a next generation of diverse scientists, is the only way we will continue to generate scientific breakthroughs. To that end I actively participate in the development of open-source software and training materials, so that motivated investigators from any background can embark on the crucial journey of deeply understanding the processing pipelines and statistical decisions involved in generating evolutionary insights from genomic data.
+To date, I have contributed 
+
+# Building a codebase
+
+By creating GitHub repositories containing detailed documentation for each of the first-author projects I've led, I have generated a large codebase containing helpful scripts for running a myriad of phylogenetic and population genetic analyses, which you can peruse [here](https://github.com/DevonDeRaad?tab=repositories). In addition to making my individual projects transparent and reproducible, I take pride in maintaining this codebase as a public resource that can be used by the entire evolutionary genomics community. I am especially excited about the ability to use this codebase as a resource to help catalyze the growth of current and future mentees, helping to foster their rapid development into independent researchers.
 
 # Software
 
