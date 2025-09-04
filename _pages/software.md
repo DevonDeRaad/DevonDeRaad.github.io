@@ -1,15 +1,9 @@
 ---
 layout: single
 classes: wide
-permalink: /open_science/
-title: "My open science efforts"
+permalink: /software/
+title: "Software"
 ---
-
-I believe that it is my responsibility as a scientist to make my work fully transparent and reproducible. I also believe that following the principles of transparency and reproducibility naturally lead to the creation of rigorous documentation, which can be viewed as a resource for training the next generation of scientists. 
-
-So far in my career, I have built a significant codebase that 
-
-Alongside my empirical work, I am interested in the development of rigorous and user-friendly software for evolutionary genomics. I strongly believe that in this highly specialized and technical era of scientific progress, the demystification of challenging technical concepts, with the goal of training a next generation of diverse scientists, is the only way we will continue to generate scientific breakthroughs. To that end I actively participate in the development of open-source software and training materials, so that motivated investigators from any background can embark on the crucial journey of deeply understanding the processing pipelines and statistical decisions involved in generating evolutionary insights from genomic data.
 
 # Software
 
