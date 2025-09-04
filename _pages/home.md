@@ -19,13 +19,11 @@ gallery2:
     title: "me3"
 ---
 
-I am an evolutionary biologist with a background in museum ornithology. I am passionate about understanding evolution on a granular level, therefore my research projects document and synthesize patterns of biodiversity in wild bird populations, with the goal of revealing the key evolutionary mechanisms controlling global biodiversity accumulation.
+I am an evolutionary biologist with a background in museum ornithology. My research program uses natural experiments to understand the speciation process from start to finish. I'm currently searching for faculty positions with the hope of launching my own research lab.
 
-I am currently a La Kretz Postdoctoral Fellow at the University of California Los Angeles, working in the [Aguillon Lab](https://stepfanieaguillon.com/). My postdoctoral research focuses on revealing the key evolutionary mechanisms involved in speciation and diversification in a variety of bird systems across North America.
+I am currently a La Kretz Postdoctoral Fellow at the University of California Los Angeles, where I am working in the [Aguillon Lab](https://stepfanieaguillon.com/). My postdoc research focuses on studying the "end" of the speciation process, specifically the genomic risk factors determining extinction risk in the Island Scrub-jay.
 
-I am passionate about reproducibility and accessibility in science, and I do my best to make my [published work](https://scholar.google.com/citations?user=cfjhgJAAAAAJ&hl=en) fully reproducible through [associated GitHub repositories](https://github.com/DevonDeRaad).
-
-I am currently on the academic job market, looking for opportunities to start my own research lab focused on answering exciting questions in evolutionary biology by using cutting edge genomic approaches to study wild bird populations across the globe.
+I recently earned my PhD from the University of Kansas, where I worked in the Moyle Lab, located in the KU Natural History Museum. My doctoral research focused on understanding how new species arise using the birds of the Pacific Islands as a natural experimental framework.
 
 {% include gallery id="gallery2" caption="" %}
 
