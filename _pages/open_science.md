@@ -9,11 +9,11 @@ title: "Open science"
 
 I believe that it is my responsibility as a scientist to make my work fully transparent and reproducible. I also believe that following the principles of transparency and reproducibility naturally lead to the creation of rigorous documentation, which can be viewed as a resource for training the next generation of scientists. Here I detail my special interest in creating resources that facilitate transparent and reproducible practices, AKA "open science". Even this website is built from open-access resources found on GitHub and can be used as a template for others and my future self!
 
-# Public access to sequence data
+# Publicly available DNA sequence data
 
 To date, I have personally contributed [678 genomic samples](https://www.ncbi.nlm.nih.gov/biosample/?term=Devon+DeRaad) from 37 different species to NCBI's Sequence Read Archive (SRA; a publicly available repository for genomic sequence data) from my published manuscripts. Here is a detailed breakdown of those samples:
 
-| Project | # Species | # Samples | Sample Type |
+| Project | Species | Samples | Sample Type |
 |:-------------:|:--------------:|:--------------:|:--------------:|
 | Scrub-jay species delimitation [(PRJNA833486)](https://www.ncbi.nlm.nih.gov/bioproject/833486)         | 4 | 115 | RADseq |
 | Towhee Hybrid Zone [(PRJNA915057)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA915057)| 2 | 32 | Ultra-conserved Elements (UCEs) |
