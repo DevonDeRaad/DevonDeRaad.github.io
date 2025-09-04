@@ -2,10 +2,8 @@
 layout: single
 classes: wide
 permalink: /open_science/
-title: "Open science"
+title: "My open science efforts"
 ---
-
-# My open science efforts
 
 I believe that it is my responsibility as a scientist to make my work fully transparent and reproducible. I also believe that following the principles of transparency and reproducibility naturally lead to the creation of rigorous documentation, which can be viewed as a resource for training the next generation of scientists. Here I detail my special interest in creating resources that facilitate transparent and reproducible practices, AKA "open science". Even this website is built from open-access resources found on GitHub and can be used as a template for others and my future self!
 
