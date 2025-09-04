@@ -24,6 +24,8 @@ To date, I have personally contributed [679 genomic samples](https://www.ncbi.nl
 | Dwarf Kingfisher phylogeography [(PRJNA1128088)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1128088)| 10 | 135 | RADseq |
 | Grosbeak Hybrid Zone [(PRJNA1298969)](https://www.ncbi.nlm.nih.gov/bioproject/1298969)| 2 | 156 | RADseq |
 
+These publicly available sequence data can be freely used by anyone who wants to validate the results from my publications, or build on the work that I've done by incorporating any of these samples into their own projects.
+
 # Building a codebase
 
 By creating GitHub repositories containing detailed documentation for each of the first-author projects I've led, I have generated a large codebase containing helpful scripts for running a myriad of phylogenetic and population genetic analyses, which you can peruse [here](https://github.com/DevonDeRaad?tab=repositories). In addition to making my individual projects transparent and reproducible, I take pride in maintaining this codebase as a public resource that can be used by the entire evolutionary genomics community. I am especially excited about the ability to use this codebase as a resource to help catalyze the growth of current and future mentees, helping to foster their rapid development into independent researchers.
