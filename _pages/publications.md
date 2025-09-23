@@ -8,11 +8,13 @@ All publications available via [Google Scholar](https://scholar.google.com/citat
 
 
 ### In Review
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29\. Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG, **DeRaad DA**, Chen N, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, & Sackton TB (2025). Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. *BioRxiv* [https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1](https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1).  
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28\. **DeRaad DA**, DeCicco LH, Ostrow EN, Chan KO, Hosner PA, & Moyle RG (2025). Rapid divergence with gene flow creates intractable nodes in the tree of life: An empirical demonstration in the Buzzing Flowerpecker (*Dicaeum hypoleucum*). *Evolutionary Journal of the Linnean Society* (in review).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30\. **DeRaad DA**, DeCicco LH, Ostrow EN, Chan KO, Hosner PA, & Moyle RG (2025). Rapid divergence with gene flow creates intractable nodes in the tree of life: An empirical demonstration in the Buzzing Flowerpecker (*Dicaeum hypoleucum*). *Evolutionary Journal of the Linnean Society* (in review).  
 
 ### Published
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29\. Kroodsma DE, **DeRaad DA**, Byers BE, Winslow DE, and Barker FK (2025). Genetic analysis of Marsh Wrens across a broad transition zone in southern Saskatchewan reveals deep divergence and little hybridization between two cultural phenotypes. *Ornithology*. Accepted.
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28\. Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG, **DeRaad DA**, Chen N, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, & Sackton TB (2025). Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. *Science*. Accepted. [https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1](https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1).  
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27\. **DeRaad DA**, Alderson JD, Geiman CO, DeCicco LH, Moyle RG, Spellman GM, & Aguillon SM (2025). Strong selection maintains a narrow, stable tension zone between grosbeak species in the Great Plains. *Evolution*. Accepted.  
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26\. Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *Ecology and Evolution*, 14(11) e70548.  
