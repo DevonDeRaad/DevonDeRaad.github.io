@@ -9,7 +9,7 @@ I believe that it is my responsibility as a scientist to make my work fully tran
 
 # Publicly available DNA sequence data
 
-To date, I have personally contributed [679 genomic samples](https://www.ncbi.nlm.nih.gov/biosample/?term=Devon+DeRaad) from 37 different species to NCBI's Sequence Read Archive (SRA; a publicly available repository for genomic sequence data) from my published manuscripts. Here is a detailed breakdown of those samples:
+To date, I have personally contributed [816 genomic samples](https://www.ncbi.nlm.nih.gov/biosample/?term=Devon+DeRaad) from 38 different species to NCBI's Sequence Read Archive (SRA; a publicly available repository for genomic sequence data) from my published manuscripts. Here is a detailed breakdown of those samples with a link to each BioProject:
 
 | Project | Species | Samples | Sample Type |
 |:-------------:|:--------------:|:--------------:|:--------------:|
@@ -21,8 +21,9 @@ To date, I have personally contributed [679 genomic samples](https://www.ncbi.nl
 | Identifying the source of introduced white-eyes [(PRJNA1079333)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1079333)| 6 | 124 | RADseq |
 | Dwarf Kingfisher phylogeography [(PRJNA1128088)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1128088)| 10 | 135 | RADseq |
 | Grosbeak Hybrid Zone [(PRJNA1298969)](https://www.ncbi.nlm.nih.gov/bioproject/1298969)| 2 | 156 | RADseq |
+| Marsh Wren Hybrid Zone [(PRJNA1330404)](https://www.ncbi.nlm.nih.gov/sra/PRJNA1330404)| 1 | 137 | RADseq |
 
-These publicly available sequence data can be freely used by anyone who wants to validate the results from my publications, or build on the work that I've done by incorporating any of these samples into their own projects.
+These publicly available sequence data can be freely used by anyone who wants to validate the results from my publications, or build on my work by incorporating any of these samples into their own future projects.
 
 # Building a codebase
 
