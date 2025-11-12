@@ -21,8 +21,8 @@ To date, I have personally contributed [876 genomic samples](https://www.ncbi.nl
 | Identifying the source of introduced white-eyes [(PRJNA1079333)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1079333)| 6 | 124 | RADseq |
 | Dwarf Kingfisher phylogeography [(PRJNA1128088)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1128088)| 10 | 135 | RADseq |
 | Grosbeak Hybrid Zone [(PRJNA1298969)](https://www.ncbi.nlm.nih.gov/bioproject/1298969)| 2 | 156 | RADseq |
-| Marsh Wren Hybrid Zone [(PRJNA1330404)](https://www.ncbi.nlm.nih.gov/sra/PRJNA1330404)| 1 | 137 | RADseq |
-| Flowerpecker phylogenomics [(PRJNA1359933)](https://www.ncbi.nlm.nih.gov/sra/PRJNA1359933)| 1 | 60 | RADseq |
+| Marsh Wren Hybrid Zone [(PRJNA1330404)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1330404)| 1 | 137 | RADseq |
+| Flowerpecker phylogenomics [(PRJNA1359933)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1359933)| 1 | 60 | RADseq |
 
 These publicly available sequence data can be freely used by anyone who wants to validate the results from my publications, or build on my work by incorporating any of these samples into their own future projects.
 
