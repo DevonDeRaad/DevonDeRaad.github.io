@@ -9,7 +9,7 @@ I believe that it is my responsibility as a scientist to make my work fully tran
 
 # Publicly available DNA sequence data
 
-To date, I have personally contributed [876 genomic samples](https://www.ncbi.nlm.nih.gov/biosample/?term=Devon+DeRaad) from 39 different species to NCBI's Sequence Read Archive (SRA; a publicly available repository for genomic sequence data) from my published manuscripts. Here is a detailed breakdown of those samples with a link to each BioProject:
+To date, I have personally contributed [930 genomic samples](https://www.ncbi.nlm.nih.gov/biosample/?term=Devon+DeRaad) from 41 different species to NCBI's Sequence Read Archive (SRA; a publicly available repository for genomic sequence data) from my published manuscripts. Here is a detailed breakdown of those samples with a link to each BioProject:
 
 | Project | Species | Samples | Sample Type |
 |:-------------:|:--------------:|:--------------:|:--------------:|
@@ -23,6 +23,7 @@ To date, I have personally contributed [876 genomic samples](https://www.ncbi.nl
 | Grosbeak Hybrid Zone [(PRJNA1298969)](https://www.ncbi.nlm.nih.gov/bioproject/1298969)| 2 | 156 | RADseq |
 | Marsh Wren Hybrid Zone [(PRJNA1330404)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1330404)| 1 | 137 | RADseq |
 | Flowerpecker phylogenomics [(PRJNA1359933)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1359933)| 1 | 60 | RADseq |
+| Yellow-headed Parrot forensic genomics [(PRJNA1475542)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1475542)| 2 | 54 | RADseq |
 
 These publicly available sequence data can be freely used by anyone who wants to validate the results from my publications, or build on my work by incorporating any of these samples into their own future projects.
 
