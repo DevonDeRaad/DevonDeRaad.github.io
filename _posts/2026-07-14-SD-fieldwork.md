@@ -19,7 +19,7 @@ During the end of the month, June 2026, I spent the week in South Dakota with De
 
   <img src="/assets/images/22030.jpg" alt="Photo 3" style="width: 100%; border-radius: 10px; margin-bottom: 15px; display: block;">
 
-  <img src="/assets/images/22026.jpg" alt="Photo 4" style="width: 100%; border-radius: 10px; margin-bottom: 15px; display: block;">
+  <img src="/assets/images/22026.JPG" alt="Photo 4" style="width: 100%; border-radius: 10px; margin-bottom: 15px; display: block;">
   
   <img src="/assets/images/IMG_6081.jpg" alt="Photo 5" style="width: 100%; border-radius: 10px; display: block;">
 </div>
