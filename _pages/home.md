@@ -24,11 +24,9 @@ Starting this December 2026, I will be opening my research lab as a faculty cura
 
 ![image](/assets/images/AMNH.jpg)
 
-{% include gallery id="gallery2" caption="" %}
-
 Currently, I am a La Kretz Postdoctoral Fellow at the University of California Los Angeles, where I am working in the [Aguillon Lab](https://stepfanieaguillon.com/). My postdoc research focuses on studying the "end" of the speciation process, specifically the genomic risk factors determining extinction risk in the Island Scrub-jay.
 
 In 2024, I completed my PhD at the University of Kansas, where I worked in the Moyle Lab, located in the KU Natural History Museum. My doctoral research focused on understanding how new species arise using the birds of the Pacific Islands as a natural experimental framework.
 
-
+{% include gallery id="gallery2" caption="" %}
 
