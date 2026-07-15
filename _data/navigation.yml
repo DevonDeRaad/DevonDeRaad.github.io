@@ -1,5 +1,5 @@
 main:
-  - title: "About"
+  - title: "Home"
     url: /about/
   - title: "News"
     url: /blog/
@@ -9,5 +9,5 @@ main:
     url: /publications/
   - title: "Open science"
     url: /open_science/
-  - title: "Contact"
+  - title: "Joining the lab"
     url: /contact/
