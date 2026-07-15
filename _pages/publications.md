@@ -11,13 +11,19 @@ All publications available via [Google Scholar](https://scholar.google.com/citat
 
 
 ### Published
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30\. **DeRaad DA**, DeCicco LH, Ostrow EN, Chan KO, Hosner PA, & Moyle RG (2025). Rapid divergence with gene flow creates intractable nodes in the tree of life: An empirical demonstration in the Buzzing Flowerpecker (*Dicaeum hypoleucum*). *Evolutionary Journal of the Linnean Society*. Accepted.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;33\. N Woodman, **DA DeRaad**, JP Colella, BJ Wiens, P Muñoz, RM Timm (2026). Morphological differentiation without genetic divergence in the Florida Least Shrew, *Cryptotis floridanus*. *Journal of Mammalogy* gyag040.
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29\. Kroodsma DE, **DeRaad DA**, Byers BE, Winslow DE, and Barker FK (2025). Genetic analysis of Marsh Wrens across a broad transition zone in southern Saskatchewan reveals deep divergence and little hybridization between two cultural phenotypes. *Ornithology*. Accepted.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32\. BR Ramirez, **DA DeRaad**, AE Muhlheim, P Latas, B Durham, N Buxton, MJ Mutchler, EJ Kirsch, WLE Tsai, AK Pizarro, & JE McCormack (2026). Unlocking the Past to Protect the Future: Forensic DNA and Historical Specimens Reveal the Origins of Smuggled Yellow‐Headed Parrots. *Evolutionary Applications* 19 (6), e70282.
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28\. Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG, **DeRaad DA**, Chen N, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, & Sackton TB (2025). Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. *Science*. Accepted. [https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1](https://www.biorxiv.org/content/10.1101/2025.02.11.637762v1).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31\. AN Files, **DA DeRaad**, BJ Wiens, EN Ostrow, LH DeCicco, & RG Moyle (2026). From Pleistocene islands to the Mid-Sierra Filter Zone: Phylogeography and hybridization in a Philippine-endemic avian genus (*Sterrhoptilus*) *Ornithology*. Accepted.
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27\. **DeRaad DA**, Alderson JD, Geiman CO, DeCicco LH, Moyle RG, Spellman GM, & Aguillon SM (2025). Strong selection maintains a narrow, stable tension zone between grosbeak species in the Great Plains. *Evolution*. Accepted.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30\. **DeRaad DA**, DeCicco LH, Ostrow EN, Chan KO, Hosner PA, & Moyle RG (2025). Rapid divergence with gene flow creates intractable nodes in the tree of life: An empirical demonstration in the Buzzing Flowerpecker (*Dicaeum hypoleucum*). *Evolutionary Journal of the Linnean Society*. 4(1) kzaf021. 
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;29\. Kroodsma DE, **DeRaad DA**, Byers BE, Winslow DE, and Barker FK (2025). Genetic analysis of Marsh Wrens across a broad transition zone in southern Saskatchewan reveals deep divergence and little hybridization between two cultural phenotypes. *Ornithology*. 143(1) 1-15.
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28\. Edwards SV, Fang B, Khost D, Kolyfetis GE, Cheek RG, **DeRaad DA**, Chen N, Fitzpatrick JW, McCormack JE, Funk WC, Ghalambor CK, Garrison E, Guarracino A, Li H, & Sackton TB (2025). Comparative population pangenomes reveal unexpected complexity and fitness effects of structural variants. *Science*. 390(6778) eadw1931. 
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27\. **DeRaad DA**, Alderson JD, Geiman CO, DeCicco LH, Moyle RG, Spellman GM, & Aguillon SM (2025). Strong selection maintains a narrow, stable tension zone between grosbeak species in the Great Plains. *Evolution*. 79(11) 2563-2574.
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26\. Gompert Z, **DeRaad DA**, & Buerkle CA (2024). A next generation of hierarchical Bayesian analyses of hybrid zones enables direct quantification of variation in introgression in R. *Ecology and Evolution*, 14(11) e70548.  
 <br/>
