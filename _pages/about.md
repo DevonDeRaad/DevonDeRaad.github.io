@@ -3,7 +3,6 @@ layout: single
 classes: wide
 permalink: /about/
 title: "DeRaad Lab - beginning December 2026"
----
 
 gallery2:
   - url: /assets/images/me4.jpg
