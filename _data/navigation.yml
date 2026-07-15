@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "News"
     url: /blog/
+  - title: "People"
+    url: /people/
   - title: "Research"
     url: /research_portfolio/
   - title: "Publications"
