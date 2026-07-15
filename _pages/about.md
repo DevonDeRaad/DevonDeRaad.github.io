@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-permalink: /about/
-title: "About"
+permalink: /home/
+title: "Home"
 ---
 
 I am an evolutionary biologist with a background in museum ornithology. My research program uses natural experiments to understand the speciation process from start to finish. I'm currently searching for faculty positions with the hope of launching my own research lab.
