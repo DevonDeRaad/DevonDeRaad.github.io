@@ -9,7 +9,7 @@ title: "Lab members"
 <p>
   <img src="/assets/images/headshot_edited.jpg"
        alt="Headshot"
-       width="250"
+       width="500"
        style="float:left; margin-right:1em;">
   Devon is an evolutionary biologist with a passion for using genetics to reveal how evolution has shaped the biodiversity around us here on earth. As a faculty curator at AMNH, Devon hopes to lead projects that utilize and build the AMNH Ornithology collection and reveal new insights on important outstanding questions in evolutionary biology and applied conservation.
 </p>
