@@ -6,15 +6,15 @@ title: "DeRaad Lab - beginning December 2026"
 ---
 
 gallery2:
-  - url: https://devonderaad.github.io/assets/images/me4.jpg
+  - url: /assets/images/me4.jpg
     image_path: /assets/images/me4.jpg
     alt: "me1"
     title: "me1"
-  - url: https://devonderaad.github.io/assets/images/me5.jpg
+  - url: /assets/images/me5.jpg
     image_path: /assets/images/me5.jpg
     alt: "me2"
     title: "me2"
-  - url: https://devonderaad.github.io/assets/images/me6.jpg
+  - url: /assets/images/me6.jpg
     image_path: /assets/images/me6.jpg
     alt: "me3"
     title: "me3"
