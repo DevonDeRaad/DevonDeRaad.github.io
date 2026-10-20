@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "DeRaad Lab"
-  avatar : "/assets/images/IMG_2258.cropped.jpeg"
+  avatar : "/assets/images/lab.logo.png"
   bio    : "Understanding biodiversity through evolutionary and conservation genetics"
   links:
     - label: "BlueSky"
