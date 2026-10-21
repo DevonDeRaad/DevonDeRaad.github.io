@@ -7,3 +7,11 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Make the sidebar avatar larger */
+.author__avatar img {
+  max-width: 150px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
